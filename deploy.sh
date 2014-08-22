@@ -64,7 +64,7 @@ if [[ ! -n "$KUDU_SYNC_CMD" ]]; then
   fi
 fi
 
-# Node Helpers
+# Node Helpers - !!! Need 0.10.29???
 # ------------
 
 selectNodeVersion () {
